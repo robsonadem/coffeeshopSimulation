@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CustomerList()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ CustomerList\n
+comment1.params=c
+comment1.target=void\ addCustomer(Customer)
+comment1.text=\n\ A\ method\ to\ add\ customer\ to\ the\ customer\ list\n\ @param\ \ \ \ \ \ \ Customer\ c\ \n
+comment2.params=
+comment2.target=int\ size()
+comment2.text=\n\ A\ method\ to\ return\ the\ size\ of\ the\ list\n\ @return\ \ \ \ \ int\ size\n
+comment3.params=index
+comment3.target=Customer\ getCustomer(int)
+comment3.text=\n\ A\ method\ to\ get\ customer\ to\ the\ customer\ list\n\ @param\ \ \ \ \ \ \ \ int\ index\ \n\ @return\ \ \ \ \ \ Customer\ c\ \n
+numComments=4
