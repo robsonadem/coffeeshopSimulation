@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=lambda
-comment0.target=ExperimentController(double)
-comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ExperimentController\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
